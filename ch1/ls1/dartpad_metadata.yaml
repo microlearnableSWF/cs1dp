@@ -1,5 +1,5 @@
 name: cs1dp_ch1_ls1
-mode: dart
+mode: flutter
 files:
   - name: main.dart
   - name: test.dart
