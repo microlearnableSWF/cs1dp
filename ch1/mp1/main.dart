@@ -1,8 +1,8 @@
-// Print 'Hello World!'
-void main() {
-  print('Hello World!');
-}
+// MicroProject 1
 
-String stringify(int x, int y) {
-  return '$x $y';
+void main() {
+	int num;
+
+	// -----[DO NOT write or modify from here]-----
+	// test the value of num.toString();
 }

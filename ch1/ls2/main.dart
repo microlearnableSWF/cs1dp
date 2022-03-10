@@ -1,4 +1,19 @@
-// Print 'Hello World!'
+// Advanced String
+
 void main() {
-  print('Hello World!');
+	// Combine Strings
+
+  
+	// Quotation marks '' ""
+
+  
+	// String Interpolation
+
+  
+	// New line
+
+
+	// Print symbols
+
+
 }

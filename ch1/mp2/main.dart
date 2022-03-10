@@ -1,4 +1,9 @@
-// Print 'Hello World!'
+// MicroProject 2
+
 void main() {
-  print('Hello World!');
+	String projectName;
+	String sentence;
+
+	// -----[DO NOT write or modify from here]-----
+	// test the value of sentence;
 }

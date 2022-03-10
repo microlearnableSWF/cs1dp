@@ -1,4 +1,22 @@
-// Print 'Hello World!'
+// Data Type - var, dynamic, late, const, final
+
 void main() {
-  print('Hello World!');
+  // var type variable
+
+	
+	// dynamic type variable
+
+	
+	// Difference between dynamic and var types
+
+	
+	// late variable
+
+  
+	// final variable
+
+
+	// const variable
+
+
 }

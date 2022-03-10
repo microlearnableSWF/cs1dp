@@ -1,4 +1,17 @@
-// Print 'Hello World!'
+// What is Data Type?
+// Data Type - int, double, String, bool
+
 void main() {
-  print('Hello World!');
+	// int variable
+
+  
+	// double variable
+
+  
+	// String variable
+
+  
+	// bool variable
+
+
 }
