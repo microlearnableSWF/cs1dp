@@ -8,5 +8,5 @@ dynamic mainTest() {
   String printString;
 
   // -----[DO NOT write or modify from here]-----
-  // test the value of printString;
+  return printString;
 }

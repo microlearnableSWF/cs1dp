@@ -5,5 +5,5 @@ dynamic mainTest() {
   var str;
 
   // -----[DO NOT write or modify from here]-----
-  // test the value of str;
+  return str;
 }
