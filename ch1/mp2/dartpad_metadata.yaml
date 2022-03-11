@@ -2,3 +2,4 @@ name: cs1dp_ch1_mp2_ls1_2
 mode: dart
 files:
   - name: main.dart
+  - name: test.dart

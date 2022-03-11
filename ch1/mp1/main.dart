@@ -1,8 +1,8 @@
 // MicroProject 1
 
-void main() {
+dynamic mainTest() {
   int num;
 
   // -----[DO NOT write or modify from here]-----
-  // test the value of num.toString();
+  return num;
 }

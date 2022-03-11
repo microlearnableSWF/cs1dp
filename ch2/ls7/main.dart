@@ -1,4 +1,11 @@
-// Print 'Hello World!'
+// Null Safety
+
 void main() {
-  print('Hello World!');
+  // Set int type variable a
+
+  print(a);
+
+  // Set int? type variable b
+
+  print(b);
 }

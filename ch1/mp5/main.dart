@@ -1,4 +1,12 @@
-// Print 'Hello World!'
-void main() {
-  print('Hello World!');
+// MicroProject 5
+
+dynamic mainTest() {
+  String name = 'Peter';
+  int age = 21;
+  String hobby = 'playing soccer';
+
+  String printString;
+
+  // -----[DO NOT write or modify from here]-----
+  // test the value of printString;
 }
