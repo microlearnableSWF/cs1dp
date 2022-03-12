@@ -1,7 +1,7 @@
 // MicroProject 15
 // Peter's Grade
 
-dynamic mainTest() {
+void mainTest() {
   int math = 90;
   int history = 80;
   int physics = 90;

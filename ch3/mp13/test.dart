@@ -1,11 +1,11 @@
 void main() {
   try {
-    final num = mainTest();
+    final result = mainTest();
 
-    if (num == 77) {
+    if (result == "Unhealthy") {
       _result(true);
     } else {
-      _result(false, ['You should print 77']);
+      _result(false, ["You should print 'Unhealthy'"]);
     }
   } catch (e) {
     _result(false, [

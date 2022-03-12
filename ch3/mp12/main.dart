@@ -1,7 +1,7 @@
 // MicroProject 12
 
 dynamic mainTest() {
-  int batteryLevel = 100;
+  int batteryLevel = 80;
   print("Battery : $batteryLevel%");
 
   String printString = "Battery charging";
