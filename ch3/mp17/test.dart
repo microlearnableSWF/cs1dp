@@ -1,15 +1,13 @@
 void main() {
   try {
-    final num = mainTest();
+    final test = mainTest(); 
 
-    if (num == 77) {
+    if (test == "Magin WandThe magic spell worked! You killed the dragon! :)") {
       _result(true);
     } else {
-      _result(false, ['You should print 77']);
+      _result(false, ["You should choose 'Magic Wand' and print 'The magic spell worked! You killed the dragon! :)'"]);
     }
   } catch (e) {
-    _result(false, [
-      'Tried calling mainTest(), but received an exception: ${e.runtimeType}'
-    ]);
+    _result(false, ['Tried calling mainTest(), but received an exception: ${e.runtimeType}']);
   }
 }

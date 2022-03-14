@@ -1,4 +1,19 @@
-// Print 'Hello World!'
+// MicroProject 17
+// Fight a dragon with a weapon
+
 void main() {
-  print('Hello World!');
+  
+  var weapon = '';
+  
+  print('There is a dragon attacking the village! Let\'s fight it!');
+	print('Your weapon is a $weapon.');
+
+  String result;
+
+  /* write your code here */
+
+  print(result);
+  
+  // -----[DO NOT write or modify from here]-----
+  // test the value of weapon + result;
 }
