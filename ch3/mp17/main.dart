@@ -1,7 +1,7 @@
 // MicroProject 17
 // Fight a dragon with a weapon
 
-void main() {
+dynamic mainTest() {
   
   // Choices: Lightsaber, Magic Wand, Sword or None
   var weapon = /* write your code here */
@@ -16,5 +16,5 @@ void main() {
   print(result);
   
   // -----[DO NOT write or modify from here]-----
-  // test the value of [weapon, result];
+  return [weapon, result];
 }
