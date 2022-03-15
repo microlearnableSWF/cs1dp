@@ -7,7 +7,7 @@ void main() {
         test[0] == 'Sword' ||
         test[0] == 'None') {
       if (test[1] == 'The Lightsaber has no battery... You were eaten by the dragon :(' ||
-          test[1] == 'The magic spell worked! You killed the dragon! :)' ||
+          test[1] == 'The magic spell worked! You killed the dragon and became a hero! :)' ||
           test[1] ==
               "The Sword cannot pierce the dragon's skin. You were eaten by a dragon :(" ||
           test[1] == 'You cannnot fight the dragon without a weapon :(') {
