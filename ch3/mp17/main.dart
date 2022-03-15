@@ -3,7 +3,7 @@
 
 void main() {
   
-	// Choices: Lightsaber, Magic Wand, Sword or None
+  // Choices: Lightsaber, Magic Wand, Sword or None
   var weapon = /* write your code here */
   
   print('There is a dragon attacking the village! Let\'s fight it!');
