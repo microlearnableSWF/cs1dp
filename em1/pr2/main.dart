@@ -3,7 +3,7 @@
  
 dynamic mainTest() {
   String name = 'Peter';
-  int birth = 2000;
+  int birthYear = 2000;
   String major = 'Computer Science';
   int selectGrade = 4;
   int selectJob = 3;
