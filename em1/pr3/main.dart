@@ -6,7 +6,7 @@ dynamic mainTest() {
       '[Notice]\nWe are looking for a developer\nwho is older than 19\nand has worked more than 3 years as developer\nand graduated with the Computer Science major.\n');
 
   String name = 'Peter';
-  int birth = 2003;
+  int birthYear = 2003;
   String major = 'Life Science';
   int selectGrade = 4;
   int selectJob = 3;
