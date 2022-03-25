@@ -1,4 +1,6 @@
-// Print 'Hello World!'
+// Calculate Sum using for-Loop
+
 void main() {
-  print('Hello World!');
+  int num = 10;
+  int sum = 0;
 }
