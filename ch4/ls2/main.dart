@@ -1,4 +1,8 @@
-// Print 'Hello World!'
+// Loop - while
+
 void main() {
-  print('Hello World!');
+	// Declare and initialize integer variable "i"
+
+	// Print the decremental value of "i" 10 times
+
 }
