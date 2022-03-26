@@ -1,4 +1,10 @@
-// Print 'Hello World!'
+// Make a Name List
+
 void main() {
-  print('Hello World!');
+  List l1 = ['Peter', 'John', 'James'];
+  List l2 = [21, 25, 23];
+
+  /* write your code here */
+
+  }
 }

@@ -1,4 +1,15 @@
-// Print 'Hello World!'
+// List - Loop
+
 void main() {
-  print('Hello World!');
+  // Initialize list with the same type values
+  
+  print(l1);
+
+  // Initialize list with different type values
+  print(l2);
+
+  // Use for-in loop to get the items in the list
+
+  // Use forEach to get the items in the list
+  // Make good case forEach Loop
 }
