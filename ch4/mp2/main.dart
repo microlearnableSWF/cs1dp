@@ -1,4 +1,7 @@
-// Print 'Hello World!'
+// Print Multiplication Table using For Loop
+
 void main() {
-  print('Hello World!');
+
+	/* write your code here */
+
 }
