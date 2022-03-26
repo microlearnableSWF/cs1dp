@@ -1,4 +1,13 @@
-// Print 'Hello World!'
+// Factorial Series
+
 void main() {
-  print('Hello World!');
+  List l = [];
+  int n = 5;
+  int sum = 1;
+
+  print('n is $n');
+
+  /* write your code here */
+
+  print(l);
 }
