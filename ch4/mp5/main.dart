@@ -1,4 +1,10 @@
-// Print 'Hello World!'
+// Triangular Stars
+
 void main() {
-  print('Hello World!');
+  int n = 10;
+  String star = '';
+  
+  /* write your code here */
+  
+  print(star);
 }

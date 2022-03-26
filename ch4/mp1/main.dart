@@ -3,4 +3,10 @@
 void main() {
   int num = 10;
   int sum = 0;
+  
+  /* write your code here */
+  
+	print('num is $num');
+  print(sum);
+
 }
