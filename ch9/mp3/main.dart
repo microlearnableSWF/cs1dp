@@ -1,7 +1,13 @@
 void main() {
-   var size = gridViewCalculates(8,9);
-   print('GridView Size is $size');
+  Rectangle rec = /* write your code here */
+  int area = /* write your code here */
+  int perimeter = /* write your code here */
+  
+  print('area: $area');
+  print('perimeter: $perimeter');
 }
 
-double gridViewCalculates (int leftRatio, int rightRatio , {int widthOfTheEntireGrid = 30}) 
+class Rectangle {
   /* write your code here */
+
+}
