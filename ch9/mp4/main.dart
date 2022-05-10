@@ -1,13 +1,26 @@
 void main() {
-  Rectangle rec = /* write your code here */
-  int area = /* write your code here */
-  int perimeter = /* write your code here */
+  Pizza pepperoni = Pizza(
+    /* write your code here */
+  );
   
-  print('area: $area');
-  print('perimeter: $perimeter');
+  pepperoni.printChoices();
 }
 
-class Rectangle {
+class Pizza {
   /* write your code here */
-
+  
+  void printChoices() {
+    print(
+      'name: $name,\n'
+      'cheeze: ${cheeze ?? false},\n'
+      'pepperoni: ${pepperoni ?? false},\n'
+      'pineapple: ${pineapple ?? false},\n'
+      'olive: ${olive ?? false},\n'
+      'tomato: ${tomato ?? false},\n'
+      'mushroom: ${mushroom ?? false},\n'
+      'pepper: ${pepper ?? false},\n'
+      'mint: ${mint ?? false},\n'
+      'onion: ${onion ?? false},\n'
+    );
+  }
 }

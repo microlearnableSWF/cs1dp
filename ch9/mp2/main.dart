@@ -1,5 +1,3 @@
-// Information of citizens
-
 void main() {
   Citizen person = Citizen(
     gender: /* write your code here */ 
