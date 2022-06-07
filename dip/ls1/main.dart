@@ -1,27 +1,68 @@
 // Loop Statement in Flutter
-
 import 'package:flutter/material.dart';
 
-void main() => runApp(MaterialApp(
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(),
-      home: LoopStatements(),
-    ));
-
-class LoopStatements extends StatefulWidget {
-  @override
-  LoopStatementsState createState() => LoopStatementsState();
-}
-
 class LoopStatementsState extends State<LoopStatements> {
+
+  // TODO: Try changing the number of items.
+  int numberOfItems = 1;
+
   
-  /////////////// Write your code here ///////////////
-
-  // How many times to run 'for-loop'
-  int numberOfItems = 10;
-
-  ////////////////////////////////////////////////////
-
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ///////////////////////////////////////////// You can ignore the code bellow :) /////////////////////////////////////////////
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -34,24 +75,11 @@ class LoopStatementsState extends State<LoopStatements> {
                 thickness: 5.0,
                 color: Colors.grey[200],
               ),
-
-              /////////////// Write your code here ///////////////
-
-              // [For-Loop]
-              // Syntax: for(a ; b ; c)
-              // a: initial count value
-              // b: terminating condition
-              // c: update the loop variable
-
-              // Use the 'for-loop' statement
-              for (int i = 1; i < numberOfItems + 1; i++)
+              for (int i = 1; i <= numberOfItems; i++)
                 Column(children: [
                   list(i),
                   const Divider(),
                 ]
-
-              ////////////////////////////////////////////////////
-
                     ),
             ],
           ),
@@ -63,6 +91,17 @@ class LoopStatementsState extends State<LoopStatements> {
       ),
     );
   }
+}
+
+void main() => runApp(MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(),
+      home: LoopStatements(),
+    ));
+
+class LoopStatements extends StatefulWidget {
+  @override
+  LoopStatementsState createState() => LoopStatementsState();
 }
 
 Widget title() {
